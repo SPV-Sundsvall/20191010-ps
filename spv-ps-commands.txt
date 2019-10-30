@@ -1,0 +1,7 @@
+get-item
+get-process
+get-service
+copy-item
+get-content
+set-location
+invoke-webrequest
